@@ -1,0 +1,11 @@
+*.ipt filter=lfs diff=lfs merge=lfs -text
+*.iam filter=lfs diff=lfs merge=lfs -text
+*.idw filter=lfs diff=lfs merge=lfs -text
+*.dwg filter=lfs diff=lfs merge=lfs -text
+*.dxf filter=lfs diff=lfs merge=lfs -text
+*.kicad_pcb filter=lfs diff=lfs merge=lfs -text
+*.kicad_sch filter=lfs diff=lfs merge=lfs -text
+*.kicad_pro filter=lfs diff=lfs merge=lfs -text
+*.lib filter=lfs diff=lfs merge=lfs -text
+*.mod filter=lfs diff=lfs merge=lfs -text
+*.pretty/* filter=lfs diff=lfs merge=lfs -text
